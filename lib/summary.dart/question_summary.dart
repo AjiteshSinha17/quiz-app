@@ -25,7 +25,7 @@ class QuestionSummary extends StatelessWidget {
                       ),
                       Text(data['user_answer'] as String),
                       const SizedBox(
-                        height: 5,
+                        height: 6,
                       ),
                       Text(data['correctanswer'] as String),
                       const SizedBox(
