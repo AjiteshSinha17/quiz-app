@@ -10,7 +10,7 @@ class Decor extends StatefulWidget {
   
  @override
  State<Decor> createState() {
-  return _DecorState() ;
+  return _DecorState();
  }
 }
 
